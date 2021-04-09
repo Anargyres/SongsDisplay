@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Le Bon Coin Test</string>
+    <string name="songs_title">Titre : </string>
+    <string name="songs_album">Album : </string>
 </resources>
